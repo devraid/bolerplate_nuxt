@@ -1,0 +1,20 @@
+{
+    "back_to_sign_in": "Take me back to Sign In",
+    "boilerplate": "Nuxt 3 + TypeScript + Tailwind + Eslint + i18n",
+    "click_here": "Click here",
+    "close": "Close",
+    "email": "Email",
+    "enter_the_email_address": "Enter the Email Address you use to access the site, and we will sent you an email with a Verification Code to set a new password.",
+    "first_name": "First Name",
+    "forgot_password": "Forgot your password?",
+    "free_registration": "Free Registration",
+    "get_verificcation_code": "Get Verification Code",
+    "last_name": "Last Name",
+    "mobile": "Mobile",
+    "password": "Password",
+    "register": "Register",
+    "repeat_password": "Repeat Password",
+    "set_new_password": "Set New Password",
+    "sign_in": "Sign In",
+    "verification_code": "Verification Code"
+}
